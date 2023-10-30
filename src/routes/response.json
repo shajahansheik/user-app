@@ -1,0 +1,87 @@
+{
+    "electronics": {
+        "title": {
+            "english": "Electronics Design",
+            "french": "Conception Électroniques"
+        },
+        "content": {
+            "p1": {
+                "english": "The evolution of IoT and Industry 4.0 revolution is reshaping our global needs, and with these changes impacting product hardware design, a successful product development for our interlinked world relies on quality design for",
+                "french": "L’évolution de l’IoT et de l’industrie 4.0 redéfinit la conception matérielle du produit. Le succès du développement de produits pour le monde connecté, dépend de la conception pour"
+            },
+            "p2": {
+                "english": "This division of our office handles the design & development of electronic, digital and analog boards, which are made from various electronic components, and their functionality tested with our simulations.",
+                "french": "Ce pôle couvre le développement et la conception de cartes électroniques, numériques et analogiques réalisées à base de composants électroniques et de tests de simulations."
+            }
+        },
+        "imgPath": "../assets/Image-7.png"
+    },
+    "embedded_systems": {
+        "title": {
+            "english": "Embedded Systems",
+            "french": "Systèmes Embarqués"
+        },
+        "content": {
+            "p1": {
+                "english": "The evolution of IoT and Industry 4.0 revolution is reshaping our global needs, and with these changes impacting product hardware design, a successful product development for our interlinked world relies on quality design for: ",
+                "french": "L’évolution de l’IoT et de l’industrie 4.0 redéfinit la conception matérielle du produit. Le succès du développement de produits pour le monde connecté, dépend de la conception pour :"
+            },
+            "p2": {
+                "english": "This division of our office handles the design & development of electronic, digital and analog boards, which are made from various electronic components, and their functionality tested with our simulations.",
+                "french": "Ce pôle couvre le développement et la conception de cartes électroniques, numériques et analogiques réalisées à base de composants électroniques et de tests de simulations."
+            }
+        },
+        "imgPath": "./assets/Image-3.png"
+    },
+    "mechanics": {
+        "title": {
+            "english": "Mechanical Systems & Design",
+            "french": "Conception Mécaniques et Systèmes "
+        },
+        "content": {
+            "p1": {
+                "english": "The evolution of IoT and Industry 4.0 revolution is reshaping our global needs, and with these changes impacting product hardware design, a successful product development for our interlinked world relies on quality design for: ",
+                "french": "L’évolution de l’IoT et de l’industrie 4.0 redéfinit la conception matérielle du produit. Le succès du développement de produits pour le monde connecté, dépend de la conception pour :"
+            },
+            "p2": {
+                "english": "This division of our office handles the design & development of electronic, digital and analog boards, which are made from various electronic components, and their functionality tested with our simulations.",
+                "french": "Ce pôle couvre le développement et la conception de cartes électroniques, numériques et analogiques réalisées à base de composants électroniques et de tests de simulations."
+            }
+        },
+        "imgPath": "./assets/Image-4.png"
+    },
+    "randd": {
+        "title": {
+            "english": "Innovation, Research and Development",
+            "french": "Innovation, Recherche et Développement"
+        },
+        "content": {
+            "p1": {
+                "english": "The evolution of IoT and Industry 4.0 revolution is reshaping our global needs, and with these changes impacting product hardware design, a successful product development for our interlinked world relies on quality design for ",
+                "french": "L’évolution de l’IoT et de l’industrie 4.0 redéfinit la conception matérielle du produit. Le succès du développement de produits pour le monde connecté, dépend de la conception pour"
+            },
+            "p2": {
+                "english": "This division of our office handles the design & development of electronic, digital and analog boards, which are made from various electronic components, and their functionality tested with our simulations.",
+                "french": "Ce pôle couvre le développement et la conception de cartes électroniques, numériques et analogiques réalisées à base de composants électroniques et de tests de simulations."
+            }
+        },
+        "imgPath": "./assets/Image-6.png"
+    },
+    "software_development": {
+        "title": {
+            "english": "Software Development",
+            "french": "Développement des Logiciels"
+        },
+        "content": {
+            "p1": {
+                "english": "The evolution of IoT and Industry 4.0 revolution is reshaping our global needs, and with these changes impacting product hardware design, a successful product development for our interlinked world relies on quality design for: ",
+                "french": "L’évolution de l’IoT et de l’industrie 4.0 redéfinit la conception matérielle du produit. Le succès du développement de produits pour le monde connecté, dépend de la conception pour :"
+            },
+            "p2": {
+                "english": "This division of our office handles the design & development of electronic, digital and analog boards, which are made from various electronic components, and their functionality tested with our simulations.",
+                "french": "Ce pôle couvre le développement et la conception de cartes électroniques, numériques et analogiques réalisées à base de composants électroniques et de tests de simulations."
+            }
+        },
+        "imgPath": "./assets/Image-2.png"
+    }
+}

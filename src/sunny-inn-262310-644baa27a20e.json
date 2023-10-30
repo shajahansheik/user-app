@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sunny-inn-262310",
+  "private_key_id": "644baa27a20e5a60fc3a9223217b72a64a4c4360",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8MOFE4wVhIU0a\nJYLTbgGWG8iBOVVgKSgdP+SycM/OHdf05Xx+MTOUVv7vQd0iG34LA9Fe8CHM92nQ\nJUE3qyTIHWk9kU3RyaEQ80rRR3x5Rp0zypD9WBzo+5iz8ujc8vpOns7HjOVEa/FZ\nFwrVSonQDjpWEVVjZIukWV/zsadI65Z8bnQEbzek2j2MZDAThublhXD8b8ZfPfHz\nWKYKTtOGiNyQARf9rZbG51jLZdcTGH4+/Dw3Q0IuXw9jpxzD6oW4xStOBNTWKHXt\nMiXhtJNFrL2KYlaFcMPKmX3rxruWUhPM14u3kn6bM1Z5aEUQGggEUsfXJ7wW8IQm\nH84P3ptrAgMBAAECggEABRmOAT/ltWwhmsPJd9FTWa4HEPlsxt5Wp/RDTlKgTwWg\nBJLzfLf4ndx9rB4sz+/Oyp2f3uLDB7rssydPTSLmLEYfw/tcEINWSg9Nx74YMXEo\ncW7b3wG0RtwKl1XN2a77+YV0NRQsYl5KfA+Ty5PpiCnaitqNZdQjtKB3aTM3RVKR\nKtbctu7hA0tsXGKg5QhJcL1rqMUbXwH8ZnbRZQ2VJmxi1crXoOuiWyn/Tey8p58I\nIY11G1Ti012CVOfCfyegq1fAl4Hkk8JXtmVcg0vAbNjMudDXV9xicuUTx4ISmIgN\n/D9qOsX2ysnW0p+3YztYQzyhE9DxNKfiVThB9nr4gQKBgQDhkPq7jbNggIhtvl1g\nMNiHG1laW1aCyukP0lnj68BUMGLrgxP9euhv1aInrFtpHC7jjMWAi2o68aD+AByN\njhMMaSUwwCoqjqvtJsgC8w4VYW3p+Bx7s7dYZCPAH1E1YxseP+/GyITmEm3hXJhh\nPz8E2fjcLzv3oqFvdSzQKOihJQKBgQDVlPYXVxSkFv7VmSCS0TaqmMA2Bnc5wtay\nyORBj7aKSmUvAbq8kCM9Bo18FmLZu5IAFuK/BFpycb0/Krw7L8UMfImAbTUs7IsG\nXL8M7XWF4JwBUgwHsOYPQHlkWEzcT6lVy4zjwOYpuRzdZ/pEQXh9mqe2i/REzPHS\nOc0OOm4NTwKBgQDNMpmVsyOCX4s84peJYQYpamzPsRWzKCn61a4mlJnDPL1QaE7w\nIjZ/PkYkdzw1E4loQfCNrsY11whQ6QMQlzWm7aQChF4XlvC6bbQ4Uqn2M0rNNIOc\n2PGqvHZ1WUgEHCNYUmurV1DnB87j29tXZDTNEgm9LE8OSOk5PsxElWKC7QKBgQC7\nKjHJ3FbLQReKaQkhf9NvBjMSZPIgHPz2aZOVXHIzl+Q5oENbMNighth/0EJJ2dSk\n3WlQyWjVd5THARU4rLD6Mzxv3cPGnXdrWOVXV9QwQNeVVKgUKVJCNVbrt3GLcwfK\nlnjdsVJBZ+XCpHatT85eC6RDFTw2+n5DosFuYYfFgwKBgCqpzuYuG7k4QNTXubXm\nmNp4xUvSmelxTwNjyqTGPYbgld+ml0eH1T4zqzeoyLiGQPN5pR+bFhgRI7Yw5ClC\na1Fki4HquGZfZ4ZZ8GOi4uv019+B/XY+ig5wtFN8ByQAUYBEH+uc9IHfm5X4Xm2Q\nNVL/pbOpV30e/HPi6dCNEH4i\n-----END PRIVATE KEY-----\n",
+  "client_email": "bondaf-test@sunny-inn-262310.iam.gserviceaccount.com",
+  "client_id": "113605957702212300631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bondaf-test%40sunny-inn-262310.iam.gserviceaccount.com"
+}

@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+
+.electronic-image {
+  background-image: linear-gradient(180deg, rgba(245, 245, 245, 0) 0%, #000000 100%), url("https://bondaf.com/media/images/pictures/HW/HW-rect.svg");
+  background-size: contain;
+  background-repeat: "no-repeat";
+  background-position: "center center";
+  border-radius: 7px;
+}
+
+.embedded-image {
+  background-image: linear-gradient(180deg, rgba(73, 84, 94, 0) 0%, #000000 100%), url("https://bondaf.com/media/images/pictures/FW/FW-rect.svg");
+  background-size: contain;
+  background-repeat: "no-repeat";
+  background-position: "center center";
+  border-radius: 7px;
+}
+
+.software-image {
+  background-image: linear-gradient(180deg, rgba(73, 84, 94, 0) 0%, #000000b4 100%), url("https://bondaf.com/media/images/pictures/SW/SW_rect.svg");
+  background-size: contain;
+  background-repeat: "no-repeat";
+  background-position: "center center";
+  border-radius: 7px;
+}
+
+.mechanics-image {
+  background-image: linear-gradient(180deg, rgba(20, 123, 220, 0) 0%, #000000b4 100%), url("https://bondaf.com/media/images/pictures/MC/MC-rect.svg");
+  background-size: contain;
+  background-repeat: "no-repeat";
+  background-position: "center center";
+  border-radius: 7px;
+}
+
+.rd-image {
+  background-image: linear-gradient(180deg, rgba(73, 84, 94, 0) 0%, #000000b4 100%), url("https://bondaf.com/media/images/pictures/IRD/IRD-rect.svg");
+  background-size: contain;
+  background-repeat: "no-repeat";
+  background-position: "center center";
+  border-radius: 7px;
+}
+
+@media screen and (max-width:600px){
+  .electronic-image {
+    background-image: linear-gradient(180deg, rgba(245, 245, 245, 0) 0%, #000000 100%), url("https://bondaf.com/media/images/pictures/HW/HW-rect.png");
+    background-size: 100% 100%;
+    background-repeat: "no-repeat";
+    background-position: "center center";
+    border-radius: 7px;
+  }
+  
+  .embedded-image {
+    background-image: linear-gradient(180deg, rgba(73, 84, 94, 0) 0%, #000000 100%), url("https://bondaf.com/media/images/pictures/FW/FW-rect.png");
+    background-size: 100% 100%;
+    background-repeat: "no-repeat";
+    background-position: "center center";
+    border-radius: 7px;
+  }
+  
+  .software-image {
+    background-image: linear-gradient(180deg, rgba(73, 84, 94, 0) 0%, #000000b4 100%), url("https://bondaf.com/media/images/pictures/SW/SW_rect.png");
+    background-size: 100% 100%;
+    background-repeat: "no-repeat";
+    background-position: "center center";
+    border-radius: 7px;
+  }
+  
+  .mechanics-image {
+    background-image: linear-gradient(180deg, rgba(20, 123, 220, 0) 0%, #000000b4 100%), url("https://bondaf.com/media/images/pictures/MC/MC-rect.png");
+    background-size: 100% 100%;
+    background-repeat: "no-repeat";
+    background-position: "center center";
+    border-radius: 7px;
+  }
+  
+  .rd-image {
+    background-image: linear-gradient(180deg, rgba(73, 84, 94, 0) 0%, #000000b4 100%), url("https://bondaf.com/media/images/pictures/IRD/IRD-rect.png");
+    background-size: 100% 100%;
+    background-repeat: "no-repeat";
+    background-position: "center center";
+    border-radius: 7px;
+  }
+}
+
+
+
+.servicesCardLink {
+  font-size: 1.11vw;
+  letter-spacing: 0.2px;
+  text-decoration: underline;
+  color: #3399FF;
+  font-family: 'Inter';
+  font-style: normal;
+  position: relative;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.servicesCardHeading {
+  text-align: center;
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2vw;
+  margin-top: 40% !important;
+}
+
+@media screen and (max-width: 1080px) {
+  .servicesCardHeading {
+    font-size: 1.0rem;
+  }
+
+  .servicesCardLink {
+    font-size:11px;
+  }
+}
+
+#root {
+  height: 100%;
+}

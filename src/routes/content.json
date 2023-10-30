@@ -1,0 +1,317 @@
+{
+    "headers": {
+        "menus": {
+            "services": {
+                "english": "Services",
+                "french": "Services"
+            },
+            "aboutUs": {
+                "english": "About Us",
+                "french": "À propos de nous"
+            },
+            "career": {
+                "english": "Career",
+                "french": "Carrière"
+            },
+            "getInTouch": {
+                "english": "Get in touch",
+                "french": "Nous Contacter"
+            }
+        }
+    },
+    "homePage": {
+        "electronics": {
+            "english": "Electronics Design",
+            "french": "Électroniques"
+        },
+        "mechanics": {
+            "english": "Mechanical Design",
+            "french": "Mécaniques"
+        },
+        "embedded": {
+            "english": "Embedded Systems Development",
+            "french": "Systèmes Embarqués"
+        },
+        "software": {
+            "english": "Software Development",
+            "french": "Développement de Logiciels"
+        },
+        "p1": {
+            "english": "We develop customer-specific products and know-how-related solutions.",
+            "french": "Le bureau d'étude technique d'ingénierie et de conseil en R&D"
+        },
+        "agree": {
+            "english": "We develop customer-specific products and know-how-related solutions.",
+            "french": "J’accepte les conditions générales"
+        },
+        "email": {
+            "english": "Your Professional Email",
+            "french": "Courriel professionel"
+        },
+        "next": {
+            "english": "Next",
+            "french": "Suivant"
+        }
+    },
+    "servicePageDetail": {
+        "learnMore": {
+            "english": "Read More",
+            "french": "En Savoir Plus"
+        },
+        "eds": {
+            "english": "Electronics Design Services",
+            "french": "Électroniques"
+        },
+        "recent": {
+            "english": "Recent Posts",
+            "french": "Les Articles Récents"
+        },
+        "category": {
+            "english": "Category",
+            "french": "Catégorie"
+        },
+        "minRead": {
+            "english": "Category",
+            "french": "min pour lire"
+        },
+        "monthPost": {
+            "english": "Month",
+            "french": "mois"
+        },
+        "monthPre": {
+            "english": "",
+            "french": "depuis"
+        },
+        "weekPost": {
+            "english": "Week",
+            "french": "semaine"
+        },
+        "weekPre": {
+            "english": "",
+            "french": "depuis"
+        },
+        "weekDayPost": {
+            "english": "Day",
+            "french": "jour"
+        },
+        "weekDayPre": {
+            "english": "",
+            "french": "depuis"
+        },
+        "eds_p1": {
+            "english": "Evolution of IoT and industry 4.0 is redefining the product hardware design. The success of product development for the connected world depends on the design for:",
+            "french": "L’évolution de l’IoT et de l’industrie 4.0 redéfinit la conception matérielle du produit. Le succès du développement de produits pour le monde connecté, dépend de la conception pour :"
+        },
+        "eds_p2": {
+            "english": "This division of our office handles the design & development of electronic, digital and analog boards, which are made from various electronic components, and their functionality tested with our simulations.",
+            "french": "Ce pôle couvre le développement et la conception de cartes électroniques, numériques et analogiques réalisées à base de composants électroniques et de tests de simulations"
+        }
+    },
+    "servicePage": {
+        "heading": {
+            "english": "Discover our Services",
+            "french": "Découvrez nos services"
+        },
+        "mainPara": {
+            "english": "We help shape the world by participating in major technological breakthroughs while limiting the impact of progress on our planet.",
+            "french": "Nous contribuons à façonner le monde en participant aux grandes avancées technologiques tout en limitant l'impact du progrès sur notre planète."
+        }
+    },
+    "aboutUs": {
+        "h1": {
+            "english": "Who we are ",
+            "french": "Qui sommes-nous"
+        },
+        "p1": {
+            "english": "Engineering R&D consultancy firm specializing in technology of the highest standards.",
+            "french": "Société d'ingénierie et de conseil en R&D spécialisée dans les technologies de pointe. "
+        },
+        "p12": {
+            "english": "We are involved in the design of electronic, mechanical and embedded systems projects, as well as software development in all possible phases, from ideation to production, depending on the purpose of the mission determined by the customer.",
+            "french": "Nous intervenons dans la conception de projets électroniques, mécaniques et de systèmes embarqués, ainsi que dans le développement de logiciels dans toutes les phases possibles, de l'idéation à la production, en fonction de l'objectif de la mission déterminée par le client."
+        },
+        "h2": {
+            "english": "Our Values",
+            "french": "Nos valeurs "
+        },
+        "p2": {
+            "english": "This is the best, strives for excellence and is based on innovation in our work and the services we provide, and values sincere commitment and partnership.",
+            "french": "C'est le meilleur, nous visons l'excellence et nous nous basons sur l'innovation dans notre travail et les services que nous fournissons, et nous valorisons l'engagement sincère et le partenariat."
+        },
+        "h3": {
+            "english": "Our Experiences ",
+            "french": "Nos expériences "
+        },
+        "p3": {
+            "english": "Innovative solutions do not mean complexity. We bring our experience, flexibility and our responsiveness to develop your innovation projects, whatever your technical issues. We are versatile, always on the move, and develop solutions that are simply efficient and effective. We are constantly testing and advancing alongside you, with agility at the heart of multiple innovative technologies.",
+            "french": "Les solutions innovantes ne sont pas synonymes de complexité. Nous apportons notre expérience, notre flexibilité et notre réactivité pour développer vos projets d'innovation, quelles que soient vos problématiques techniques. Nous sommes polyvalents, toujours en mouvement, et développons des solutions simplement efficaces et performantes. Nous testons et progressons en permanence à vos côtés, l'agilité étant au cœur de multiples technologies innovantes."
+        },
+        "h4": {
+            "english": "Our Missions ",
+            "french": "Nos missions"
+        },
+        "p4": {
+            "english": "Designing and implementing the innovative products of tomorrow is a real mindset, it's our philosophy. Our technical skills and our knowledge of innovative technologies allow us to support you at every stage of the design of your products, to meet your precise needs and your production requirements.",
+            "french": "Concevoir et mettre en œuvre les produits innovants de demain est un véritable état d'esprit, c'est notre philosophie. Nos compétences techniques et notre connaissance des technologies innovantes nous permettent de vous accompagner à chaque étape de la conception de vos produits, pour répondre à vos besoins précis et à vos impératifs de production."
+        },
+        "h5": {
+            "english": "Our customers  ",
+            "french": "Nos clients"
+        },
+        "p5": {
+            "english": "We are at the service of companies, whatever their size, years of experience or sector of activity. We put our know-how into work on their projects.",
+            "french": "Nous sommes au service des entreprises, quels que soient leur taille, leur ancienneté et leur secteur d'activité. Nous mettons notre savoir-faire au service de leurs projets."
+        },
+        "h6": {
+            "english": "Where we work",
+            "french": "Où nous travaillons"
+        },
+        "p6": {
+            "english": "Our engineers work on mixed assignments, either on the customer's site, in our offices, or telecommuting. In exceptional cases, design office services are carried out in our offices by our engineers.",
+            "french": "Nos ingénieurs travaillent sur des missions mixtes, soit sur le site du client, soit dans nos bureaux, soit en télétravail. Exceptionnellement, des prestations de bureau d'études sont réalisées dans nos bureaux par nos ingénieurs."
+        }
+        
+    },
+    "career": {
+        "career": {
+            "english": "Career",
+            "french": "CARRIÈRE"
+        },
+        "allJobs": {
+            "english": "All Jobs",
+            "french": "Tous les emplois"
+        },
+        "allJobsPara": {
+            "english": "We invite professionals with commendable values into our offices.",
+            "french": "Nous recrutons des collaborateurs qui ont à cœur les valeurs prônées."
+        }
+    },
+    "contactUs": {
+        "contactUs": {
+            "english": "Contact Us",
+            "french": "Nous Contacter"
+        },
+        "companyName": {
+            "english": "Company",
+            "french": "Société"
+        },
+        "phone": {
+            "english": "Phone Number",
+            "french": "Téléphone"
+        },
+        "subject": {
+            "english": "Subject",
+            "french": "Sujet"
+        },
+        "message": {
+            "english": "Message",
+            "french": "Message"
+        },
+        "attachFiles": {
+            "english": "Attach files",
+            "french": "Attachment"
+        },
+        "send": {
+            "english": "Send",
+            "french": "Envoyer"
+        },
+        "schedule": {
+            "english": "Schedule a call with us",
+            "french": "Prendre un rendez-vous"
+        },
+        "p1": {
+            "english": "We serve the global corporate market with services and solutions ranging from basic to advanced technological systems.",
+            "french": "Nous servons le marché mondial des entreprises avec des services et des solutions allant des systèmes technologiques de base aux systèmes technologiques avancés. "
+        },
+        "reachUs": {
+            "english": "Reach us at",
+            "french": "Domicilié"
+        },
+        "reachUsContent": {
+            "english": "Paris and Toulouse, France",
+            "french": "Paris et Toulouse, France"
+        },
+        "socialMedia": {
+            "english": "Social Media",
+            "french": "Médias Sociaux"
+        },
+        "legal": {
+            "english": "Legal Documents",
+            "french": "Mentions légales"
+        },
+        "tos": {
+            "english": "General Terms of Service",
+            "french": "Conditions générales d'utilisation"
+        },
+        "policy": {
+            "english": "Privacy Policy",
+            "french": "Politique de confidentialité"
+        }
+    },
+    "carouselPage": {
+        "readMore": {
+            "english": "Read More",
+            "french": "En Savoir Plus"
+        },
+        "rd": {
+            "english": "R&D Bureau",
+            "french": "Le bureau d'étude"
+        },
+        "cards": {
+            "english": [
+                "Electronic Design",
+                "Embedded Systems",
+                "Mechanics",
+
+                "R&D Bureau",
+                "Software Development",
+
+                "R&D Bureau",
+                "Software Development",
+
+                "Electronic Design",
+                "Embedded Systems",
+                "Mechanics",
+
+                "Electronic Design",
+                "Embedded Systems",
+                "Mechanics",
+
+                "R&D Bureau",
+                "Software Development"
+            ],
+            "french": [
+                "Électroniques",
+                "Systèmes Embarqués",
+                "Mécaniques",
+                
+                "R&D Bureau",
+                "Développement de Logiciels",
+
+                "R&D Bureau",
+                "Développement de Logiciels",
+
+                "Électroniques",
+                "Systèmes Embarqués",
+                "Mécaniques",
+                
+
+                "Électroniques",
+                "Systèmes Embarqués",
+                "Mécaniques",
+                
+                "R&D Bureau",
+                "Développement de Logiciels"
+                
+
+            ]
+        },
+        "subjects": [
+            "electronics",
+            "embedded_systems",
+            "mechanics",
+            "randd",
+            "software_development"
+        ]
+    }
+}
